@@ -1,0 +1,12 @@
+{
+    "name": "lamta/untitled",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lamta\\Untitled\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
